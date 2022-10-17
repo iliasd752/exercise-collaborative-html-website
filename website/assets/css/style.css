@@ -6,6 +6,8 @@ body{
 .card-title {
   font-size: 150px;
   text-align: center;
+  padding-bottom: 20px;
+  
 }
 
 .card-text {
@@ -15,7 +17,13 @@ body{
 
 .card-img-overlay {
   align-items: center;
-  padding: 0;
+  padding: 15px;
   margin-top: 10%;
 
+}
+
+.card-img {
+
+  max-height:1100px;
+  overflow:hidden;
 }
