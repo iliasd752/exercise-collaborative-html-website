@@ -61,3 +61,17 @@ body {
   padding-bottom: 100px;
   padding-top: 100px;
 }
+
+.position {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.flex-one {
+  flex: 1;
+}
+
+.flex-two {
+  flex: 2;
+}
